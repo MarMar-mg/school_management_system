@@ -228,8 +228,3 @@ https://github.com/MarMar-mg
 Repository:
 https://github.com/MarMar-mg/school_management_system
 
----
-
-<p align="center">
-  Built with ❤️ using Flutter & Dart
-</p>
